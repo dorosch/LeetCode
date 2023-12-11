@@ -5,3 +5,4 @@ mod largest_odd_number_in_string;
 mod construct_string_from_binary_tree;
 mod binary_tree_inorder_traversal;
 mod element_appearing_more_than_25_in_sorted_array;
+mod transpose_matrix;
